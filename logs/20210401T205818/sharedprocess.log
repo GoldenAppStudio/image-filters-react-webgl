@@ -1,0 +1,16 @@
+[2021-04-01 20:58:22.780] [sharedprocess] [info] main {"machineId":"2ead5a5bc9c9333e64d9d30adfe3afd13faaf776b4466b98749a48226c1c525c","windowId":2}
+[2021-04-01 20:58:22.934] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/hw/Code/Web-Test/WebGL/Image Processing/image-filters-app/User/snippets'
+[2021-04-01 20:59:02.196] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-04-01 21:53:08.632] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-04-01 21:53:27.294] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2021-04-01 21:53:52.479] [sharedprocess] [info] Installing extension: xabikos.javascriptsnippets
+[2021-04-01 21:54:13.539] [sharedprocess] [info] Downloaded extension: xabikos.javascriptsnippets undefined
+[2021-04-01 21:54:13.586] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.xabikos.javascriptsnippets-1.8.0: xabikos.javascriptsnippets
+[2021-04-01 21:54:13.587] [sharedprocess] [info] Renamed to /root/.vscode/extensions/xabikos.javascriptsnippets-1.8.0
+[2021-04-01 21:54:13.587] [sharedprocess] [info] Installation completed. xabikos.javascriptsnippets
+[2021-04-01 21:54:13.775] [sharedprocess] [info] Extensions installed successfully: xabikos.javascriptsnippets
+[2021-04-01 21:54:18.501] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode undefined
+[2021-04-01 21:54:18.981] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.esbenp.prettier-vscode-5.8.0: esbenp.prettier-vscode
+[2021-04-01 21:54:18.981] [sharedprocess] [info] Renamed to /root/.vscode/extensions/esbenp.prettier-vscode-5.8.0
+[2021-04-01 21:54:18.983] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2021-04-01 21:54:19.128] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
